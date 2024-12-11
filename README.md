@@ -8,5 +8,5 @@ I’m Hugo Pereira, a passionate [Your Role: e.g., Software Developer, Data Scie
 🛠️ Projects: Check out some of my work here.
 
 📫 How to reach me:
-  - [Your email](hugopereira2002@hotmail.fr)
-  - [LinkedIn](https://www.linkedin.com/in/hugo-pereira-72ab36200/)
+  - Email: hugopereira2002@hotmail.fr
+  - LinkedIn: https://www.linkedin.com/in/hugo-pereira-72ab36200/
