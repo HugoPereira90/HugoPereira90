@@ -3,6 +3,7 @@
 I’m Hugo Pereira, a passionate [Your Role: e.g., Software Developer, Data Scientist, Full-Stack Developer] with a love for creating innovative solutions and learning new technologies.
 
 🌱 Currently Learning: Software Engineering.
+
 💻 Skills: ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
