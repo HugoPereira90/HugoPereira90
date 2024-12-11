@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Hugo Pereira, a passionate [Your Role: e.g., Software Developer, Data Scientist, Full-Stack Developer] with a love for creating innovative solutions and learning new technologies.
+I’m Hugo Pereira, a french student in computer science at UTBM (University of Technologie Belfort-Montbeliard) 🎓. 
 
 🌱 Currently Learning: Software Engineering.
 
